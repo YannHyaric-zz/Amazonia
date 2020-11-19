@@ -150,7 +150,9 @@ img.small {
   width: 100%;
 }
 img.medium {
-  max-width: 29rem;
+  max-width: 25rem;
+  min-height: 33rem;
+  max-height: 33rem;
   width: 100%;
 }
 img.large {
@@ -177,9 +179,6 @@ img.large {
 .rating span {
   color: #f0c040;
   margin: 0.1rem;
-}
-.rating span:last-child {
-  color: #404040;
 }
 /* Alert */
 .loading {
