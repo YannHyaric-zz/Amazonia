@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Product(props) {
+export default function Rating(props) {
   const { rating, numReviews } = props;
   return (
     <div className="rating">

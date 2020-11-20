@@ -176,12 +176,12 @@ img.large {
   font-size: 2rem;
 }
 /* Rating */
-.rating span {
+
+.rating .fa {
   color: #f0c040;
   margin: 0.1rem;
 }
-
-.rating.review {
+.review {
   color: #404040;
 }
 /* Alert */
